@@ -6,6 +6,9 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>gateway</module>
+		<module>service-registry</module>
+		<module>tweets</module>
+		<module>service-instances</module>
 	</modules>
 
 	<parent>
